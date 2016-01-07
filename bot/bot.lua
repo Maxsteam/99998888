@@ -210,6 +210,7 @@ function create_config( )
       "channels",
       "greeter",
       "groupmanager",
+      "badkhah",
       "help",
       "id",
       "invite",
